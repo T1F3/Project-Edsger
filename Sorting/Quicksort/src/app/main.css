@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.list{
+    text-align: center;
+    padding: 1% 0;
+}
+
+
+.list-index{
+    width: 50px;
+    background-color: #fff;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    padding: 1% 0;
+    margin: 1%
+}
